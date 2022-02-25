@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="ingresar_resistencia">Resistencia(R):</string>
+    <string name="ingresar_voltaje">Voltaje(V):</string>
+    <string name="ingresar_corriente">Corriente(I):</string>
+    <string name="txt_selecionar_texto">Seleccione que quiere calcular</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="txt_resultado">El valor de %1$s es %2$f</string>
+    <string name="valor_requerido">Se requiere un número</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="voltaje">voltaje</string>
+    <string name="resistencia">resistencia</string>
+    <string name="corriente">corriente</string>
+    <string name="error_indeterminacion">El valor de %s debe ser mayor a 0</string>
+    <string name="creador">Desarrollado por: Edgar cruz</string>
+    <string name="version">versión 1.0</string>
+    <string-array name="opciones">
+        <item>Voltaje</item>
+        <item>Resistencia</item>
+        <item>Corriente</item>
+    </string-array>
+</resources>

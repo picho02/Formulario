@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="ingresar_resistencia">Resistance(R):</string>
+    <string name="ingresar_voltaje">Voltage(V):</string>
+    <string name="ingresar_corriente">Current(I)</string>
+    <string name="txt_selecionar_texto">Select an option</string>
+    <string name="btn_calcular">Calculete</string>
+    <string name="txt_resultado">the %1$s value is %2$f</string>
+    <string name="valor_requerido">a number is required</string>
+    <string name="btn_regresar">back</string>
+    <string name="voltaje">voltage</string>
+    <string name="resistencia">resistence</string>
+    <string name="corriente">current</string>
+    <string name="error_indeterminacion">the value of the %s must be greater than 0</string>
+    <string name="creador">Developed by: Edgar Cruz</string>
+    <string name="version">version 1.0</string>
+    <string-array name="opciones">
+        <item>Voltage</item>
+        <item>Resistance</item>
+        <item>Current</item>
+    </string-array>
+</resources>
